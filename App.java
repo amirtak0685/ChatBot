@@ -1,6 +1,5 @@
 /* ***************************************
   @author    Amirali Takian
-  @SID       240089447
   @date      4 November 2024
   @version   3
 
