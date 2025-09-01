@@ -1,9 +1,9 @@
-class answers {
-    String name;
-    String[] knownAnswers;
-    String[] questions;
-    String[] actorQuestions;
-    String[] sceneQuestions;
-    String[] villainQuestions;
-    boolean asked;
+public class answers {
+    public String name;
+    public String[] knownAnswers;
+    public String[] questions;
+    public String[] actorQuestions;
+    public String[] sceneQuestions;
+    public String[] villainQuestions;
+    public boolean asked;
 }
